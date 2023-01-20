@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "4_Channel_Relay_Module")(type "KiCad")(uri "C:/Users/muham/OneDrive/Belgeler/GitHub/4ChannelRelayModule/Library/Symbol/4_Channel_Relay_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "RelayModule")(type "KiCad")(uri "C:/Users/muham/OneDrive/Belgeler/GitHub/4ChannelRelayModule/Library/Symbol/RelayModule.kicad_sym")(options "")(descr ""))
+)

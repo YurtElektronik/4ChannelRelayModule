@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\muham\OneDrive\Belgeler\GitHub\4ChannelRelayModule\Project\4ChannelRelayModule\4ChannelRelayModule.kicad_sch</source>
+    <date>1/17/2023 9:32:33 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>4ChannelRelayModule.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Footprint:LED_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1047908-5a4b-4252-b85c-111e2f1e5b31</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Footprint:LED_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61400a9c-c4c3-4d21-9f1f-ddf21807c747</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Footprint:LED_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7251ca01-3afd-4b34-957e-337c3e829600</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Footprint:LED_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e840b5b-ec97-47b5-b727-dcbc4378af13</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Zener</value>
+      <footprint>Footprint:Nexperia_CFP3_SOD-123W</footprint>
+      <libsource lib="RelayModule" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b896213-8f0b-40c2-b60f-2454259eb884</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Zener</value>
+      <footprint>Footprint:Nexperia_CFP3_SOD-123W</footprint>
+      <libsource lib="RelayModule" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2992e8b-561c-440d-bebb-a4f2d4fe86bf</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Zener</value>
+      <footprint>Footprint:Nexperia_CFP3_SOD-123W</footprint>
+      <libsource lib="RelayModule" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e82bd54c-cb6d-4788-baaa-c7cee20e23f8</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Zener</value>
+      <footprint>Footprint:Nexperia_CFP3_SOD-123W</footprint>
+      <libsource lib="RelayModule" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98492e64-0223-47dc-afc6-0ec764adcf12</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x06</value>
+      <footprint>Footprint:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="RelayModule" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93b05f5c-13a8-4203-9832-c2f26ad24ffd</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Footprint:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="RelayModule" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b378061-5f23-408a-b921-0f29c314a2b8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Screw_Terminal_01x06</value>
+      <footprint>Footprint:TerminalBlock_RND_205-00016_1x06_P5.00mm_Horizontal</footprint>
+      <libsource lib="RelayModule" part="Screw_Terminal_01x06" description="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34986db5-060e-43bb-9eb2-af9240121d70</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x06</value>
+      <footprint>Footprint:TerminalBlock_RND_205-00016_1x06_P5.00mm_Horizontal</footprint>
+      <libsource lib="RelayModule" part="Screw_Terminal_01x06" description="Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f48409b-6ce0-4b88-afcb-75f5e57555af</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>JQC-3F-1C-24VDC</value>
+      <footprint>Footprint:RELAY_JQC-3F-1C-24VDC</footprint>
+      <fields>
+        <field name="MANUFACTURER">YUEQING HENGWEI ELECTRONICS CO.,LTD.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.5 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="RelayModule" part="JQC-3F-1C-24VDC" description=""/>
+      <property name="MANUFACTURER" value="YUEQING HENGWEI ELECTRONICS CO.,LTD."/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.5 mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eba3135-0680-489f-87f7-0fd1cac7d274</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>JQC-3F-1C-24VDC</value>
+      <footprint>Footprint:RELAY_JQC-3F-1C-24VDC</footprint>
+      <fields>
+        <field name="MANUFACTURER">YUEQING HENGWEI ELECTRONICS CO.,LTD.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.5 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="RelayModule" part="JQC-3F-1C-24VDC" description=""/>
+      <property name="MANUFACTURER" value="YUEQING HENGWEI ELECTRONICS CO.,LTD."/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.5 mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4510a9a-d909-4049-ae00-d0930bf0dd12</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>JQC-3F-1C-24VDC</value>
+      <footprint>Footprint:RELAY_JQC-3F-1C-24VDC</footprint>
+      <fields>
+        <field name="MANUFACTURER">YUEQING HENGWEI ELECTRONICS CO.,LTD.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.5 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="RelayModule" part="JQC-3F-1C-24VDC" description=""/>
+      <property name="MANUFACTURER" value="YUEQING HENGWEI ELECTRONICS CO.,LTD."/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.5 mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>480ae448-e19f-489f-af68-d25e10a3697c</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>JQC-3F-1C-24VDC</value>
+      <footprint>Footprint:RELAY_JQC-3F-1C-24VDC</footprint>
+      <fields>
+        <field name="MANUFACTURER">YUEQING HENGWEI ELECTRONICS CO.,LTD.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.5 mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="RelayModule" part="JQC-3F-1C-24VDC" description=""/>
+      <property name="MANUFACTURER" value="YUEQING HENGWEI ELECTRONICS CO.,LTD."/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="15.5 mm"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a752b63-ff1d-4850-aa75-c240f777c55c</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="RelayModule" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a5daa1a-1d00-4bb0-822e-5984fd164552</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="RelayModule" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47cd37f8-fe4e-4ebe-b9ce-e4d9eddfc9e1</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="RelayModule" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ba569df-7b4e-4be4-a3db-317426b0118c</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC817</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="RelayModule" part="BC817" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c4bba6a-246b-4950-a8fa-3ff1f18ee061</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24088264-f3f4-4f8f-b4e6-2bea41d05e30</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b26470b-0023-441c-9805-6503d746071e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b352bc6-639d-4190-a510-825f627164ca</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>981251fc-2a2b-4eff-a542-ae44709cdb27</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>add5e1cf-1877-4de7-a66a-2b16dc4e3752</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6631b4e9-e6b4-4906-8250-727b110c75f3</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f7c7ad-d29f-40c6-8179-e582cfb8458b</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Footprint:R_0805_2012Metric</footprint>
+      <libsource lib="RelayModule" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>848860c9-84d7-4f37-b2cd-1ad26d5cb9b2</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PC817</value>
+      <footprint>Footprint:SOIC254P1016X390-4N</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <libsource lib="RelayModule" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>953ac94a-7498-45ea-a1aa-f1a91dd82db2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>PC817</value>
+      <footprint>Footprint:SOIC254P1016X390-4N</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <libsource lib="RelayModule" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91cefeaf-09be-41b8-a4ff-9a6a214e6a1d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>PC817</value>
+      <footprint>Footprint:SOIC254P1016X390-4N</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <libsource lib="RelayModule" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf1ef3a2-44a0-47ee-8a53-e4bd5b942cad</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>PC817</value>
+      <footprint>Footprint:SOIC254P1016X390-4N</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <libsource lib="RelayModule" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="4ChannelRelayModule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82e15712-aa87-4f5c-bdbd-ee630b382803</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="RelayModule" part="BC817">
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BC818-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Footprint">Footprint:PinHeader_1x02_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Footprint">Footprint:PinHeader_1x06_P2.54mm_Vertical</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Footprint">Footprint:Nexperia_CFP3_SOD-123W</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="JQC-3F-1C-24VDC">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">JQC-3F-1C-24VDC</field>
+        <field name="Footprint">Footprint:RELAY_JQC-3F-1C-24VDC</field>
+        <field name="MANUFACTURER">YUEQING HENGWEI ELECTRONICS CO.,LTD.</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">15.5 mm</field>
+      </fields>
+      <pins>
+        <pin num="COIL1" name="" type="passive"/>
+        <pin num="COIL2" name="" type="passive"/>
+        <pin num="COM" name="" type="passive"/>
+        <pin num="NC" name="" type="passive"/>
+        <pin num="NO" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint">Footprint:LED_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="PC817">
+      <description>DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4</description>
+      <docs>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PC817</field>
+        <field name="Footprint">Footprint:SOIC254P1016X390-4N</field>
+        <field name="Datasheet">http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint">Footprint:R_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RelayModule" part="Screw_Terminal_01x06">
+      <description>Generic screw terminal, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x06</field>
+        <field name="Footprint">Footprint:TerminalBlock_RND_205-00016_1x06_P5.00mm_Horizontal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="RelayModule">
+      <uri>C:/Users/muham/OneDrive/Belgeler/GitHub/4ChannelRelayModule/Library/Symbol/RelayModule.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GND">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="2" name="/IN1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="/IN2">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="4" name="/IN3">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="5" name="/IN4">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="6" name="/JD-VCC">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="COIL1" pintype="passive"/>
+      <node ref="K2" pin="COIL1" pintype="passive"/>
+      <node ref="K3" pin="COIL1" pintype="passive"/>
+      <node ref="K4" pin="COIL1" pintype="passive"/>
+      <node ref="U1" pin="4" pintype="passive"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+      <node ref="U3" pin="4" pintype="passive"/>
+      <node ref="U4" pin="4" pintype="passive"/>
+    </net>
+    <net code="7" name="/VCC">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="COIL2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="COIL2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K3" pin="COIL2" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K4" pin="COIL2" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="NC" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="COM" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K1" pin="NO" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J3-Pad4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="K2" pin="NC" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J3-Pad5)">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="K2" pin="COM" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="K2" pin="NO" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K3" pin="NC" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K3" pin="COM" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K3" pin="NO" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J4-Pad4)">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="K4" pin="NC" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(J4-Pad5)">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="K4" pin="COM" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(J4-Pad6)">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="K4" pin="NO" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="3" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pintype="passive"/>
+    </net>
+  </nets>
+</export>
